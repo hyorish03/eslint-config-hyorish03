@@ -21,5 +21,6 @@
   "dependencies": {
     "@changesets/cli": "^2.27.8",
     "ultra-runner": "^3.10.5"
-  }
+  },
+  "repository": "https://github.com/hyorish03/eslint-config-hyorish03.git"
 }
